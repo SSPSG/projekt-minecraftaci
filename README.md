@@ -1,5 +1,8 @@
+## Getting started
 
 ```
+git clone https://github.com/Smichovska-SPS/projekt-minecraftaci.git
+cd projekt-minecraftaci
 pip install -r requirements.txt
 ```
 
